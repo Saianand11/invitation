@@ -2,6 +2,7 @@ import React from 'react'
 import G1 from '../../src/assets/gpng.png'
 import lb from '../../src/assets/leftsban.png'
 import rb from '../../src/assets/rightban.png'
+// import tr from '../../src/assets/trewq.png
 
 
 const Herosection = () => {
