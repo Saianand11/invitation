@@ -10,7 +10,7 @@ const Herosection = () => {
        
 
       <div className=" -mt-1 bg-[url('../../src/assets/trewq.png')] bg-no-repeat ">
-        <div className=" md:bg-none   bg-[url('../../src/assets/tornam1.png')] bg-no-repeat ">
+        
 
        
           <div class="relative">
@@ -55,7 +55,7 @@ const Herosection = () => {
           </section>
         </div>
         </div>
-      </div>
+      
     
     
     
