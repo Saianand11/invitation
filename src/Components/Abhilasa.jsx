@@ -4,7 +4,7 @@ import ad from '../assets/downimg.png'
 const Abhilasa = () => {
   return (
     <div>
-          <section class="text-gray-600 body-font mb-10">
+          <section class="text-gray-600 body-font mb-10 pointer-events-none">
                 <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
                     <div class="text-center lg:w-2/3 w-full">
                         <h1 class="title-font sm:text-3xl text-2xl mb-6 font-medium text-red-900">అభిలాష

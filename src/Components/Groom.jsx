@@ -4,7 +4,7 @@ import rb from '../../src/assets/vinay.jpg'
 const Groom = () => {
   return (
     <div>
-        <section class="text-white body-font overflow-hidden ">
+        <section class="text-white body-font overflow-hidden  pointer-events-none">
         <div class="text-center lg:w-2/3 w-full  container mx-auto flex px-5 py-24 items-center justify-center flex-col">
       <h1 class="title-font sm:text-4xl text-3xl mb-4 font-large text-gray-900"></h1> 
       <br></br>
@@ -16,7 +16,7 @@ const Groom = () => {
 
                 <div class="container px-5 py-24 mx-auto mt-30">
                     <div class="lg:w-4/5 mx-auto flex flex-wrap ">
-                        <img alt="vinay pic" class="lg:w-1/2 w-full lg:h-46 h-46 object-cover object-center rounded"src={rb} />
+                        <img alt="vinay pic" class="lg:w-1/2 w-full lg:h-46 h-46 object-cover object-center rounded pointer-events-none"src={rb} />
                         <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-10 lg:mt-8">
                             <h1 class="text-sm title-font  text-red-900 tracking-widest">వరుడు : చి|| </h1>
                             <br></br> 
