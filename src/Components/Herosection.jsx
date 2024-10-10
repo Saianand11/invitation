@@ -36,7 +36,7 @@ const Herosection = () => {
             <br></br>
             <br></br>
             <div class="text-center lg:w-2/3 w-full md:-mt-12">
-              <h1 class="title-font sm:text-8xl text-4xl mb-6 font-medium text-green-900 lg:text-6xl mt-10">సోరపల్లి వారి వివాహ ఆహ్వానం </h1>
+              <h1 class="title-font sm:text-4xl text-4xl mb-6 font-medium text-green-900 lg:text-6xl mt-10">సోరపల్లి వారి వివాహ ఆహ్వానం </h1>
 
               <br></br>
               <p class="mb-8 leading-relaxed text-red-900 md: mt-28 text-3xl sm:text-"> శ్రీ సోరపల్లి చిన్నరామకృష్ణ (లేటు). శ్రీమతి సత్యవతి గార్ల దివ్య ఆశీస్సులతో.... <br></br> సోరపల్లి వెంకట మురళీకృష్ణ శ్రీమతి వరలక్ష్మి దంపతులు వ్రాయు శుభలేఖార్థములు <br></br>మా కుమార్తె</p>
